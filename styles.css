@@ -1,0 +1,87 @@
+.inline{
+    display: inline-flex;
+    align-items: center;
+}
+
+.inline img{
+    padding-top: 20px;
+    margin-left: 50px;
+    height: 200px;
+}
+
+header{
+    font-size: 25px;
+    margin-left: 500px;
+    margin-top: -20px;
+}
+
+.container{
+    width: 300px;
+    height: 100%;
+    background-color: burlywood;
+    padding: 0;
+}
+.objective{
+    margin-top: -25px;
+    margin-left: 350px;
+}
+
+.right-align{
+    margin-left: 30px;
+}
+
+.container3{
+    margin-left: 100px;
+}
+
+hr{
+    margin-top: -20px;
+}
+
+.right-align h3{
+    font-size: 17px;
+    margin-bottom: -10px;
+}
+
+.right-align h2{
+    margin-top: 30px;
+}
+
+.right-align h4{
+    margin-top: -13px;
+}
+
+.des{
+    margin-top: -10px;
+}
+
+.right-align li{
+    margin-bottom: 15px;
+}
+
+.container3 li{
+    margin-top: 20px;
+}
+.container3 p{
+    margin-top: 0;
+}
+
+.container3 h3{
+    margin-top: -5px;
+}
+
+.end{
+    margin-bottom: 35px;
+}
+
+.container3 h2{
+    margin-top: 50px;
+}
+
+a {
+    color: #00611d; /* Set the color to red */
+}
+
+body{
+    background-color: #bbd4af
+}
